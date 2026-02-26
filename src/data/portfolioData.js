@@ -101,6 +101,12 @@ export const projects = {
       image: "/projects/stay-dine.jpg", // if you don't have image, make it ""
       liveUrl: "https://stay-dine-frontend.vercel.app/",
     },
+       {
+      title: "Walmart Clone (Full Stack)",
+      desc: "Complete e-commerce website with cart, auth, admin dashboard and payment integration.",
+      liveUrl: "https://walmart-frontend-six.vercel.app/",
+      image: "/projects/walmart.jpg",
+    },
   ],
 };
 
