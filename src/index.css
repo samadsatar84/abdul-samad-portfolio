@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  color-scheme: dark;
+}
+
+html, body {
+  height: 100%;
+}
+
+body{
+  margin: 0;
+  font-family: ui-sans-serif, system-ui, Inter, Segoe UI, Roboto, Arial;
+  background: #070A12;
+}
+
+*{
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection{
+  background: rgba(124,92,255,0.35);
+}
