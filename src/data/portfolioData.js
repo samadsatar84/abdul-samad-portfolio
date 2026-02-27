@@ -107,6 +107,22 @@ export const projects = {
       liveUrl: "https://walmart-frontend-six.vercel.app/",
       image: "/projects/walmart.jpg",
     },
+    {
+  title: "StayDine | Luxury Hotel Landing Page",
+  desc: "Premium hotel & restaurant landing page featuring modern dark-gold UI, animated hero section, menu showcase, and smooth user experience.",
+  image: "/projects/stay-dine-landing.jpg",
+  liveUrl: "https://staydine-website-landingpage.vercel.app/#menu",
+  tech: ["React", "Tailwind CSS", "Vite", "Responsive Design"],
+  featured: true,
+},
+{
+  title: "Nova Mart | Modern E-Commerce UI",
+  desc: "A modern e-commerce website UI with premium product layout, clean design, and responsive experience across devices.",
+  image: "/projects/nova-mart.jpg",
+  liveUrl: "https://nova-mart-website.vercel.app/",
+  tech: ["React", "Vite", "Tailwind CSS", "Responsive UI"],
+  featured: false,
+},
   ],
 };
 
